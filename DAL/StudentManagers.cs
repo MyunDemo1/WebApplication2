@@ -9,5 +9,6 @@ namespace DAL
 {
     public class StudentManagers : BaseDAL<Student>
     {
+
     }
 }
